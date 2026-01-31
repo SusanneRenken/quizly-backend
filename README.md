@@ -1,4 +1,4 @@
-# Quizly – Backend (Django REST Framework)
+# Quizly – Backend
 
 Quizly automatically converts YouTube videos into quizzes with 10 AI‑generated questions.  
 This backend provides the core API for authentication, quiz creation (stub or production AI pipeline), and quiz management.
